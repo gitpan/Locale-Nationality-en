@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 our $names;
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 # -----------------------------------------------
 
@@ -236,11 +236,11 @@ __END__
 
 =head1 NAME
 
-C<Locale::Nationality::en> - English names of nationalities
+Locale::Nationality::en - English names of nationalities
 
 =head1 Synopsis
 
-	#!/usr/bin/perl
+	#!/usr/bin/env perl
 
 	use strict;
 	use warnings;
